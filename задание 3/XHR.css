@@ -1,0 +1,25 @@
+.img {
+    width: 200px;
+  }
+  .author {
+    width: 500px;
+    height: 200px;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 20px;
+  }
+  .card {
+     margin-right: 10px;
+  }
+  .button {
+    width: 100px;
+    background-color: blue;
+    border-radius: 5px;
+    height: 30px;
+    margin-left: 20px;
+  }
+  .input {
+    height: 24px;
+    border-radius: 5px;
+  }
+  

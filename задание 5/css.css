@@ -1,0 +1,33 @@
+.container {
+    margin-top: 30px;
+    display: flex;
+    gap: 5px;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.result {
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+.button {
+    width: 100px;
+    padding: 10px;
+    border-radius: 5px;
+    border-width: 1px;
+    background-color: rgba(139, 188, 209, 0.795)
+}
+.input {
+    padding: 10px;
+    background-color: aliceblue;
+    border-width: 1px;
+    border-radius: 5px;
+}
+.style {
+    border-radius: 5px;
+    width: 200px;
+    height: 200px;
+    margin-right: 10px;
+}
+
